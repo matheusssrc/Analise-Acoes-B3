@@ -159,3 +159,4 @@ MIT License
   - GitHub: https://github.com/matheusssrc  
 
 - **Jonathan Gonçalves Possa**
+  - LinkedIn: https://www.linkedin.com/in/jonathan-possa/  
